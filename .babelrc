@@ -1,0 +1,7 @@
+{
+  "presets": [
+    "react",
+    "modern-browsers"
+  ],
+  "plugins": ["transform-regenerator"]
+}
